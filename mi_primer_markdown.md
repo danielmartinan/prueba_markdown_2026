@@ -132,3 +132,7 @@ LA fórmula de la ecuación de la relatividad es:
 $$E=mc^2$$ sfgsdgsadg
 
 ###### Nivel 6
+
+Imagen de mi drawio:
+
+![Texto alternativo](./diagrama.drawio.svg)
