@@ -136,3 +136,20 @@ $$E=mc^2$$ sfgsdgsadg
 Imagen de mi drawio:
 
 ![Texto alternativo](./diagrama.drawio.svg)
+
+~~tachado~~
+
+> [!NOTE]
+> Texto
+
+> [!TIP]
+> Texto
+
+> [!IMPORTANT]
+> Texto
+
+> [!WARNING]
+> Texto
+
+> [!CAUTION]
+> Texto
